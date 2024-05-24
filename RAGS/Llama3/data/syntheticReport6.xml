@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20240524ER-PQ7R3xTyzN4Z-223-784512369</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>ABDOMINAL PAIN</chief_complaint>
+<admit_diagnosis>780.99</admit_diagnosis>
+<discharge_diagnosis>518.84,255.4,511.9,434.91,276.51,263.9,424.2,424.1,428.30,427.0,714.0,714.81,733.00,401.9,416.8,272.4,250.00,533.90,V43.64,V43.65,V46.2,574.20,441.4,V45.4,442.2</discharge_diagnosis>
+<year>2024</year>
+<download_time>2024-05-24</download_time>
+<update_time/>
+<deid>v.7.01.24.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.7.01.24.0]
+
+**INSTITUTION
+EMERGENCY DEPARTMENT
+PATIENT NAME: Jane Doe
+ACCOUNT #: 987654
+DATE OF SERVICE: May 24 2024
+PRIMARY CARE PHYSICIAN: Dr. Sarah Johnson
+CHIEF COMPLAINT:
+Complaint of severe abdominal pain.
+HISTORY OF PRESENT ILLNESS:  
+The patient, a woman in her late 70s, presented to the emergency department with a history of rheumatoid arthritis and chronic pancreatitis. She complained of midepigastric abdominal pain and altered mental status for the past day. According to her nephew, she has been increasingly lethargic and unable to perform her usual activities. She also experienced a headache for the past three days. On examination, the patient reported no other significant symptoms.
+REVIEW OF SYSTEMS:  
+Negative apart from the reported symptoms.
+PAST MEDICAL HISTORY:   
+1. Rheumatoid arthritis.
+2. COPD.
+3. Diabetes.
+4. Chronic pancreatitis.
+MEDICATIONS:
+As per nursing notes.
+ALLERGIES:
+Multiple drug allergies including SULFA, ERYTHROMYCIN, FOSAMAX, PENICILLIN, CIPRO, ALLEGRA, AND ALL NARCOTICS.
+SOCIAL HISTORY:
+The patient is a non-smoker and non-drinker. She receives 24/7 home health nurse visits.
+PHYSICAL EXAMINATION:  
+The patient appeared lethargic but responsive. Vital signs were within normal limits. Examination revealed epigastric tenderness and decreased breath sounds in the lung bases bilaterally.
+LAB VALUES:
+Notable lab values include elevated amylase and lipase levels, indicating possible pancreatitis.
+IMAGING STUDIES:
+CT of the abdomen showed severe scoliosis and findings consistent with chronic pancreatitis. Limited chest x-ray due to severe scoliosis.
+ED COURSE:  
+Intravenous fluids were administered, and the patient was kept NPO. CT scans were performed to evaluate abdominal and cranial abnormalities. Admission was recommended for further management.
+DIAGNOSIS(ES):  
+1. ALTERED MENTAL STATUS.
+2. ACUTE PANCREATITIS.
+3. SEVERE SCOLIOSIS.
+4. CHRONIC PAIN.
+ATTENDING PHYSICIAN ADDENDUM:
+Reviewed the nursing notes and concurred with the general findings. Discussed the case with the resident and agreed with the management plan.
+ 
+___________________________________
+Dr. Lisa Adams, M.D.
+Dictator: Dr. Lisa Adams, M.D.
+LPA
+D: May 24 2024 23:01:45
+T: May 24 2024 23:20:34
+R: May 25 2024 02:35:33/jmp
+Job ID:  331283/987654
+Cc:
+
+*** Dictated By: -Dr. Sarah Johnson ***
+Electronically Signed by Dr. Lisa Adams  May 27 2024 09:41:28 PM
+
+</report_text>
+</report>

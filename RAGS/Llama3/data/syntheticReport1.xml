@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20230524XYZ-8JKLhNMqRST9-123-456789012</checksum>
+<subtype>CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>PNEUMONIA</chief_complaint>
+<admit_diagnosis>486</admit_diagnosis>
+<discharge_diagnosis>491.21,305.1,276.8,780.60,599.0,401.9,272.4,285.1</discharge_diagnosis>
+<year>2024</year>
+<downlaod_time>2024-05-24</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+CONSULTATION REPORT
+General Hospital
+Los Angeles, CA 90033
+__________________________________________________
+
+John Smith
+123456789 
+123456789
+A5B/1 ___________________________________________________
+
+DATE OF CONSULTATION:    May 24, 2024
+
+CONSULTING PHYSICIAN:    Dr. Maria Gonzalez, M.D.
+
+ATTENDING PHYSICIAN:     Dr. Robert Johnson, M.D.
+
+REQUESTING PHYSICIAN:   Dr. Emily Clark, M.D.
+
+PULMONARY
+
+REASON FOR CONSULTATION 
+Severe pneumonia.
+
+HISTORY OF PRESENT ILLNESS
+This is a pleasant 72-year-old Hispanic gentleman with a history of chronic obstructive pulmonary disease (COPD) and hypertension. He was admitted with a high fever, productive cough, and shortness of breath. He has had worsening dyspnea over the past week. He reports no chest pain or hemoptysis. He denies any recent travel or exposure to sick contacts. He has been treated with IV antibiotics and oxygen therapy.
+
+PAST MEDICAL &amp; SURGICAL HISTORY
+1. Chronic obstructive pulmonary disease.
+2. Hypertension.
+3. Hyperlipidemia.
+4. History of smoking, quit 10 years ago.
+5. Appendectomy.
+6. Cataract surgery.
+
+FAMILY HISTORY 
+No known history of pulmonary diseases or cancer in the family.
+
+SOCIAL HISTORY 
+The patient is a retired construction worker. He does not currently smoke or drink alcohol. He lives with his wife.
+
+CURRENT MEDICATIONS 
+1. Albuterol inhaler as needed.
+2. Lisinopril 20 mg daily.
+3. Atorvastatin 40 mg daily.
+4. Metformin 500 mg twice daily.
+5. Prednisone 10 mg daily.
+6. Doxycycline 100 mg IV q.12 h.
+
+LABORATORY DATA 
+WBC count 15.2, hemoglobin 13.8, hematocrit 40.5, platelet count 230. Sodium 138, potassium 4.1, chloride 102, bicarbonate 22, BUN 20, creatinine 1.1. ABG shows pH 7.45, pCO2 35, pO2 75 on 2 liters of oxygen. Sputum culture pending.
+
+DIAGNOSTICS 
+Chest x-ray shows bilateral infiltrates consistent with pneumonia.
+
+PHYSICAL EXAMINATION 
+VITALS: Blood pressure is 135/78, temperature 38.2, pulse 92, respiratory rate 20. HEENT: Normocephalic/atraumatic, no conjunctival pallor. CHEST: Bilateral crackles and wheezes, no rhonchi. CARDIOVASCULAR: Regular rhythm and rate, no murmurs. ABDOMEN: Soft, non-tender, no organomegaly. EXTREMITIES: No edema, good peripheral pulses. NEUROLOGIC: Alert and oriented, no focal deficits.
+
+ASSESSMENT/RECOMMENDATIONS 
+1. Severe community-acquired pneumonia.
+a) Continue IV antibiotics.
+b) Monitor oxygen saturation and adjust oxygen therapy as needed.
+c) Encourage deep breathing and coughing exercises.
+d) Reassess for potential complications such as empyema or respiratory failure.
+
+2. COPD exacerbation.
+a) Continue bronchodilator therapy.
+b) Taper prednisone as clinically indicated.
+c) Avoid respiratory depressants.
+
+3. Hypertension.
+a) Continue current antihypertensive medications.
+b) Monitor blood pressure closely.
+
+Thank you for the opportunity to be involved in the care of this patient. Please do not hesitate to contact us for any further assistance.
+
+__________________________________
+Dr. Maria Gonzalez, M.D.
+
+Dict:     May 24, 2024 12:15:00
+Tran:     May 24, 2024 12:45:00
+MG
+
+R:  May 24, 2024 13:30:00/xyz
+
+Dr. Robert Johnson, M.D., &lt;Attending&gt;
+Dr. Maria Gonzalez, M.D.
+          
+Document authenticated by: Dr. Maria Gonzalez, M.D., on May 24, 2024 14:00:00 ET.
+</report_text>
+</report>
