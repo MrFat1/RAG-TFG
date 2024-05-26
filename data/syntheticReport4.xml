@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20240524HP-xB12sKD9zrN9-987-1122334455</checksum>
+<subtype>CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>CHEST PAIN</chief_complaint>
+<admit_diagnosis>786.50</admit_diagnosis>
+<discharge_diagnosis>414.01,427.5,250.00,401.9,V17.49</discharge_diagnosis>
+<year>2024</year>
+<download_time>2024-05-24</download_time>
+<update_time/>
+<deid>v.7.01.24.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.7.01.24.0]
+
+**INSTITUTION
+Consultation
+Name: John Doe
+Acct #: 123456
+MRN: 654321
+Admitted: 
+Date: May 20 2024
+Dict: Dr. Emily Smith
+Attend: Dr. Robert Johnson
+REASON FOR CONSULTATION: Severe chest pain.
+We are asked to evaluate this pleasant 75-year-old man with a history of 
+diabetes and hypertension. The patient was recently admitted to City Hospital 
+for chest pain. The patient was noted at that time to have an elevated troponin level. 
+As part of the patient's assessment, he underwent a coronary angiography which revealed 
+significant stenosis for which he was treated with stenting. Initially, he did well. 
+However, he subsequently developed recurrent chest pain and was evaluated by Dr. Sarah Brown 
+and sent to the emergency department for further evaluation and treatment. Mr. Doe 
+reports that he has had no significant fevers or chills. He does have a mild cough which is 
+non-productive. He has a remote smoking history, having quit more than 30 years ago. The patient 
+admits to a diet high in fatty foods. He reports no significant changes in bowel or bladder function. 
+He denies any skin lesions, rashes, changes in vision or hearing. He denies any constitutional symptoms 
+other than chest pain.
+REVIEW OF SYSTEMS: Otherwise negative.
+PAST MEDICAL HISTORY: His past medical history is notable for type 2 diabetes mellitus, 
+hypertension, coronary artery disease status post myocardial infarction, and hyperlipidemia.
+MEDICATIONS: His outpatient medications include
+1. Metformin.
+2. Lisinopril.
+3. Atorvastatin.
+4. Aspirin.
+5. Clopidogrel.
+6. Metoprolol.
+SOCIAL HISTORY: The patient is retired, lives with his wife, has two daughters. No alcohol, 
+remote tobacco use as mentioned.
+FAMILY HISTORY: Positive for coronary artery disease and diabetes.
+REVIEW OF SYSTEMS: As outlined.
+PHYSICAL EXAMINATION: A pleasant elderly Caucasian male, in no acute distress. 
+Vital Signs: Pulse 74, blood pressure 150/80, respiratory rate 16, saturation 96% on room air. 
+Oropharynx is clear without exudate or erythema. No jugular venous distention. Chest reveals 
+clear breath sounds bilaterally. Cardiac Exam: Regular rhythm, no murmurs, rubs, or gallops. 
+Abdomen is soft, non-tender, no hepatosplenomegaly. Lower Extremities: No edema, no clubbing or cyanosis.
+Neurologically: Alert and oriented, no focal deficits.
+Chest x-ray: No acute infiltrates, no pleural effusions. Additional laboratories notable for 
+sodium of 138, potassium 4.0, serum CO2 of 25, BUN and creatinine 18 and 1.1 respectively. 
+White count 6000, hemoglobin 13.5, platelets 250. Troponin on admission was 0.2, repeat was less than 0.01.
+IMPRESSION: A 75-year-old male admitted with recurrent chest pain. The patient has 
+a history of coronary artery disease and recent stenting. Chest pain likely secondary to 
+coronary artery spasm. Will continue current medical management and monitor. 
+No need for further invasive procedures at this time. Follow-up with cardiology recommended.
+Thank you for allowing us to participate in this patient's care.
+______________________________
+Dr. Emily Smith, MD
+HS Job # 987654 / 321654 / 123456
+SHY # 654321
+D: May 20 2024 14:25
+T: May 20 2024 16:10
+
+**CARBON-COPY
+
+</report_text>
+</report>
